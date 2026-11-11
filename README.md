@@ -1,31 +1,148 @@
+
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Sahil V. Bhomle</h1>
-<h3 align="center">Aspiring AWS Cloud Engineer | Junior DevOps Engineer from India</h3>
+<h3 align="center">Aspiring AWS Cloud Engineer | Junior DevOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-bhomle-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-bhomle-cloud" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-bhomle-cloud" alt="sahil-bhomle-cloud" /></a> </p>
-
-- 🔭 I’m currently working on **Dockerized Static Website using Docker and Nginx**
-
-- 🌱 I’m currently learning **Kubernetes, AWS Cloud and DevOps**
-
-- 💬 Ask me about **AWS EC2, VPC, Linux, Docker, Terraform, Jenkins CI/CD**
-
-- 📫 How to reach me **sahilbhomle03@gmail.com**
-
-- ⚡ Fun fact **I enjoy learning new cloud technologies and building hands-on projects.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahil-bhomle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-bhomle" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahil-bhomle-cloud&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-bhomle">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sahilbhomle03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-bhomle-cloud&show_icons=true&locale=en&layout=compact" alt="sahil-bhomle-cloud" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-bhomle-cloud&show_icons=true&locale=en" alt="sahil-bhomle-cloud" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-bhomle-cloud&" alt="sahil-bhomle-cloud" /></p>
+- 🎓 Computer Science Engineering Graduate
+- 📚 PG-DITISS from C-DAC, Pune
+- ☁️ Aspiring AWS Cloud Engineer
+- 🚀 Interested in Cloud Computing and DevOps
+- 🐳 Hands-on practice with Docker and AWS EC2
+- 🔧 Working with Terraform and Jenkins
+- 🌱 Currently learning Kubernetes
+- 🎯 Looking for entry-level AWS Cloud / DevOps opportunities
+- 📍 Pune, Maharashtra, India
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Cloud | AWS EC2, VPC, IAM, S3 (Basic), Lambda, CloudWatch, GuardDuty, SNS |
+| DevOps | Docker, Jenkins, Terraform, CI/CD |
+| Operating Systems | Linux, Ubuntu |
+| Web Servers | Apache, Nginx |
+| Programming | Python Fundamentals |
+| Version Control | Git, GitHub |
+| Currently Learning | Kubernetes |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,jenkins,terraform,git,github,nginx,python" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. AWS Threat Detection and Remediation
+- AWS GuardDuty for threat detection
+- AWS Lambda for automated response
+- Amazon SNS for notifications
+
+### 2. Terraform AWS Infrastructure
+- Infrastructure provisioning using Terraform
+- AWS VPC, Subnet, Security Group and EC2
+
+### 3. Jenkins CI/CD Deployment
+- GitHub → Jenkins → Docker → AWS EC2
+- Practical CI/CD deployment workflow
+
+### 4. Dockerized Static Website
+- Docker containerization
+- Nginx web server
+- AWS EC2 deployment
+
+### 5. Static Website Hosting on AWS EC2
+- Linux and Ubuntu administration
+- Apache web server
+- SSH and Security Group configuration
+
+### 6. AWS Blue/Green Deployment Lab
+- AWS EC2
+- Application Load Balancer
+- Blue/Green deployment concepts
+
+<p align="center">
+  <i>Project repositories are being published as I organize and document the source code.</i>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahil-bhomle-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-bhomle-cloud&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## ⭐ Repository Statistics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repositories-Dynamic-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/sahil-bhomle-cloud/sahil-bhomle-cloud?style=for-the-badge&label=Profile%20Repo%20Stars" />
+</p>
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahil-bhomle-cloud&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil-bhomle-cloud&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahil-bhomle-cloud&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🎓 Certifications
+
+- Python Essentials 1 – Cisco Networking Academy
+- Introduction to Cybersecurity – Cisco Networking Academy
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sahil-bhomle">
+    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Bhomle-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sahilbhomle03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sahilbhomle03-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>☁️ Learn | Build | Automate | Deploy 🚀</b>
+</p>
 
