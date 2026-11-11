@@ -45,34 +45,83 @@
 <!-- ================================================================ -->
 <!--                            ABOUT ME                              -->
 <!-- ================================================================ -->
+
+<!-- ABOUT ME -->
 <div align="center">
 
-## About Me
+<h2>👨‍💻 About Me</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=45&lines=Hello%2C+I'm+Sahil+Bhomle+%F0%9F%91%8B;AWS+Cloud+%26+DevOps+Enthusiast;Building+%7C+Learning+%7C+Automating+%F0%9F%9A%80" alt="Animated introduction"/>
 
 </div>
 
-I'm an aspiring **AWS Cloud and DevOps Engineer** from **Pune, India**. I hold a **B.E. in Computer Science Engineering** and completed **PG-DITISS from C-DAC, Pune**.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I enjoy building AWS infrastructure, practicing automation, containerization and cloud deployment.
+### 🌌 My Journey
+
+I'm an aspiring **AWS Cloud and DevOps Engineer** from Pune, India.
+
+🎓 B.E. in Computer Science Engineering
+
+🎓 PG-DITISS – C-DAC, Pune
+
+☁️ Exploring AWS Cloud Infrastructure
+
+🐳 Practicing Docker and containerization
+
+⚙️ Working with Terraform and Jenkins
+
+🚀 Currently learning Kubernetes
+
+</td>
+<td width="40%" valign="top">
+
+### ⚡ Quick Profile
+
+```yaml
+name: Sahil V. Bhomle
+role: Aspiring Cloud Engineer
+location: Pune, India
+
+interests:
+  - AWS Cloud
+  - DevOps
+  - Automation
+  - Linux
+
+currently_learning:
+  - Kubernetes
+
+goal: Build and automate
+      cloud infrastructure
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sahil-bhomle-cloud/sahil-bhomle-cloud/main/assets/about-terminal.svg" alt="Animated terminal showing Sahil V. Bhomle's profile: AWS Cloud and DevOps, Pune India, B.E. Computer Science Engineering, PG-DITISS C-DAC Pune, learning Kubernetes" width="100%" />
+### 💡 My Developer Philosophy
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=Think+Cloud+%E2%98%81%EF%B8%8F;Automate+Everything+%E2%9A%99%EF%B8%8F;Keep+Learning+%F0%9F%93%9A;Never+Stop+Building+%F0%9F%9A%80" alt="Developer philosophy"/>
 
 </div>
 
 <details>
-<summary><b>Click to see what I'm looking for</b></summary>
-<br/>
+<summary><b>🎯 Career Interests – Click to Explore</b></summary>
 
-- **AWS Cloud Engineering**
-- **Junior DevOps Engineering**
-- **Cloud Support**
-- **Cloud Operations**
+- AWS Cloud Engineer
+- Junior DevOps Engineer
+- Cloud Support Engineer
+- Cloud Operations Engineer
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=2" width="100%" alt="" />
+---
+
 
 <!-- ================================================================ -->
 <!--                           TECH STACK                             -->
