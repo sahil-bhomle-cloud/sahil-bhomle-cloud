@@ -46,81 +46,82 @@
 <!--                            ABOUT ME                              -->
 <!-- ================================================================ -->
 
-<!-- ABOUT ME -->
+
+<!-- ABOUT ME SECTION -->
+
 <div align="center">
 
-<h2>👨‍💻 About Me</h2>
+<h2>👨‍🚀 About Me</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=45&lines=Hello%2C+I'm+Sahil+Bhomle+%F0%9F%91%8B;AWS+Cloud+%26+DevOps+Enthusiast;Building+%7C+Learning+%7C+Automating+%F0%9F%9A%80" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&height=45&lines=Hey%2C+I'm+Sahil+Bhomle+%F0%9F%91%8B;Aspiring+AWS+Cloud+%26+DevOps+Engineer;Building+Cloud+%7C+Learning+%7C+Automating" alt="Animated introduction"/>
 
-</div>
+<br/>
 
-<table>
+<p align="center">
+  I'm an aspiring <b>AWS Cloud and DevOps Engineer</b> from <b>Pune, India</b>.<br/>
+  B.E. in Computer Science Engineering | PG-DITISS, C-DAC Pune
+</p>
+
+<br/>
+
+### ✨ What I Do
+
+<table align="center" width="100%">
 <tr>
-<td width="60%" valign="top">
-
-### 🌌 My Journey
-
-I'm an aspiring **AWS Cloud and DevOps Engineer** from Pune, India.
-
-🎓 B.E. in Computer Science Engineering
-
-🎓 PG-DITISS – C-DAC, Pune
-
-☁️ Exploring AWS Cloud Infrastructure
-
-🐳 Practicing Docker and containerization
-
-⚙️ Working with Terraform and Jenkins
-
-🚀 Currently learning Kubernetes
-
+<td align="center" width="33%">
+  <h3>☁️</h3>
+  <b>Cloud</b>
+  <br/>
+  AWS Infrastructure
 </td>
-<td width="40%" valign="top">
-
-### ⚡ Quick Profile
-
-```yaml
-name: Sahil V. Bhomle
-role: Aspiring Cloud Engineer
-location: Pune, India
-
-interests:
-  - AWS Cloud
-  - DevOps
-  - Automation
-  - Linux
-
-currently_learning:
-  - Kubernetes
-
-goal: Build and automate
-      cloud infrastructure
-```
-
+<td align="center" width="33%">
+  <h3>⚙️</h3>
+  <b>Automation</b>
+  <br/>
+  Terraform & Jenkins
+</td>
+<td align="center" width="33%">
+  <h3>🐳</h3>
+  <b>Containers</b>
+  <br/>
+  Docker & Nginx
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br/>
 
-### 💡 My Developer Philosophy
+### 🚀 My Current Focus
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=Think+Cloud+%E2%98%81%EF%B8%8F;Automate+Everything+%E2%9A%99%EF%B8%8F;Keep+Learning+%F0%9F%93%9A;Never+Stop+Building+%F0%9F%9A%80" alt="Developer philosophy"/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-Currently%20Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<br/><br/>
+
+### 🎯 Career Goals
+
+Looking for opportunities in:
+
+**AWS Cloud Engineer · Junior DevOps Engineer · Cloud Support · Cloud Operations**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=2" width="100%" alt="Gradient divider"/>
 
 </div>
 
-<details>
-<summary><b>🎯 Career Interests – Click to Explore</b></summary>
+<!-- END ABOUT ME SECTION -->
 
-- AWS Cloud Engineer
-- Junior DevOps Engineer
-- Cloud Support Engineer
-- Cloud Operations Engineer
-
-</details>
-
----
 
 
 <!-- ================================================================ -->
