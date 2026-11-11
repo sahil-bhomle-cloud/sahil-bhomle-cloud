@@ -1,264 +1,212 @@
-<!-- ===================== HEADER ===================== -->
+ <!-- ===================== ANIMATED HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:8b5cf6&height=200&section=header&text=Sahil%20V.%20Bhomle&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AWS%20Cloud%20and%20DevOps%20Engineer%20(Entry-Level)&descSize=18&descAlignY=60" alt="Sahil V. Bhomle - AWS Cloud and DevOps Engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d1b,45:312e81,100:06b6d4&height=220&section=header&text=Sahil%20V.%20Bhomle&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AWS%20CLOUD%20%7C%20DEVOPS%20%7C%20AUTOMATION&descSize=17&descAlignY=60" width="100%" alt="Animated header"/>
 
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+Cloud+Universe+%F0%9F%8C%8C;Building+and+Exploring+AWS+Cloud+%E2%98%81%EF%B8%8F;Automating+with+Terraform+%26+Jenkins;Containerizing+with+Docker+%F0%9F%90%B3;Currently+Learning+Kubernetes+%F0%9F%9A%80" alt="Typing animation"/>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/sahil-bhomle">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:sahilbhomle03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://github.com/sahil-bhomle-cloud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&height=45&lines=AWS+Cloud+%7C+DevOps+%7C+Cloud+Support+%7C+Cloud+Operations;Terraform+%C2%B7+Docker+%C2%B7+Jenkins+%C2%B7+Linux;Building+hands-on+labs+on+AWS;Currently+learning+Kubernetes" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/sahil-bhomle"><img src="https://img.shields.io/badge/LinkedIn-Sahil%20Bhomle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:sahilbhomle03@gmail.com"><img src="https://img.shields.io/badge/Email-sahilbhomle03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Location-Pune%2C%20India-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://komarev.com/ghpvc/?username=sahil-bhomle-cloud&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sahil-bhomle-cloud&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS" alt="Profile visitors"/>
+
+</div>
+
+---
+
+## 🧑‍🚀 About Me
+
+Hey there! I'm **Sahil Bhomle**, an aspiring **AWS Cloud & Junior DevOps Engineer** from Pune, India.
+
+I enjoy exploring cloud technologies, building infrastructure, automating deployment workflows and learning how modern applications run in the cloud.
+
+- ☁️ Exploring AWS Cloud Infrastructure
+- 🐳 Practicing Docker containerization
+- ⚙️ Working with Terraform and Jenkins
+- 🐧 Learning Linux administration
+- 🚀 Currently learning Kubernetes
+- 🎯 Looking for entry-level AWS Cloud / DevOps opportunities
+
+> *Build. Automate. Deploy. Repeat.* ✨
+
+## ⚡ My Tech Universe
+
+<div align="center">
+
+### ☁️ Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,terraform&theme=dark" />
+
+### 🐳 DevOps & Automation
+
+<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github&theme=dark" />
+
+### 🐧 Operating Systems & Web Servers
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,apache&theme=dark" />
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+</div>
+
+<details>
+<summary><b>☁️ AWS Services & Technical Skills</b></summary>
+
+- EC2, VPC, Subnets, Security Groups
+- IAM and S3 (Basic)
+- Lambda, CloudWatch, GuardDuty, SNS
+- Linux, Ubuntu, SSH, systemctl
+- Docker, Nginx, Apache
+- Terraform, Jenkins, Git, GitHub
+- Python Fundamentals
+- CI/CD Fundamentals
+
+</details>
+
+---
+
+## 🛠️ Featured Projects
+
+<div align="center">
+
+### 🔐 01 — AWS Threat Detection & Remediation
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+Threat detection and remediation workflow configured using Amazon GuardDuty, AWS Lambda and Amazon SNS.
+
+**Technologies:** AWS GuardDuty · Lambda · SNS
+
+---
+
+### 🏗️ 02 — AWS Infrastructure with Terraform
+
+<img src="https://img.shields.io/badge/Infrastructure-as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+Provisioned AWS infrastructure using Terraform, including VPC, Subnet, Security Group and EC2.
+
+**Technologies:** Terraform · AWS VPC · EC2
+
+---
+
+### 🔄 03 — CI/CD Deployment Workflow
+
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+Hands-on deployment workflow connecting GitHub, Jenkins, Docker and AWS EC2.
+
+**Technologies:** GitHub · Jenkins · Docker · AWS EC2
+
+---
+
+### 🌐 04 — Static E-commerce Website on AWS EC2
+
+<img src="https://img.shields.io/badge/Hosting-AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+Hosted a static e-commerce website on AWS EC2 using Linux commands and Apache web server.
+
+**Technologies:** EC2 · Ubuntu · Linux · Apache
+
+---
+
+### 🐳 05 — Dockerized Static Website with Nginx
+
+<img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+Practicing containerization of a static website using Docker and Nginx on AWS EC2.
+
+**Technologies:** Docker · Dockerfile · Nginx · Ubuntu · AWS EC2
+
+---
+
+### 🔵 06 — AWS Blue/Green Deployment Lab
+
+<img src="https://img.shields.io/badge/Deployment-Blue%2FGreen-8B5CF6?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+Hands-on Blue/Green deployment lab using AWS EC2 and Application Load Balancer.
+
+**Technologies:** AWS EC2 · Application Load Balancer
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sahil-bhomle-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6" width="49%" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-bhomle-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" width="49%" alt="Top languages"/>
 
 <br/><br/>
 
-<!-- ===================== QUICK NAV ===================== -->
-<a href="#about-me"><img src="https://img.shields.io/badge/About-0ea5e9?style=flat-square" alt="About" /></a>
-<a href="#technology-stack"><img src="https://img.shields.io/badge/Tech%20Stack-22d3ee?style=flat-square&labelColor=0f172a" alt="Tech Stack" /></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-8b5cf6?style=flat-square" alt="Projects" /></a>
-<a href="#github-analytics"><img src="https://img.shields.io/badge/Analytics-0ea5e9?style=flat-square" alt="Analytics" /></a>
-<a href="#education-and-certifications"><img src="https://img.shields.io/badge/Education-22d3ee?style=flat-square&labelColor=0f172a" alt="Education" /></a>
-<a href="#currently-learning"><img src="https://img.shields.io/badge/Learning-8b5cf6?style=flat-square" alt="Learning" /></a>
-<a href="#contact"><img src="https://img.shields.io/badge/Contact-0ea5e9?style=flat-square" alt="Contact" /></a>
+<img src="https://streak-stats.demolab.com?user=sahil-bhomle-cloud&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" width="70%" alt="GitHub streak"/>
 
 </div>
 
-<br/>
-
-<!-- ===================== ABOUT ===================== -->
-## About Me
-
-I'm an **entry-level AWS Cloud and DevOps engineer** based in Pune, India. I hold a **B.E. in Computer Science Engineering** and completed the **PG-DITISS (Post Graduate Diploma in IT Infrastructure, Systems and Security) at C-DAC, Pune**.
-
-I build hands-on labs around AWS infrastructure, automated deployments, containerization and cloud security monitoring.
-
-<details>
-<summary><b>Roles I'm looking for (click to expand)</b></summary>
-<br/>
-
-- **AWS Cloud Engineering**
-- **Junior DevOps Engineering**
-- **Cloud Support**
-- **Cloud Operations**
-
-</details>
-
-<br/>
-
-<!-- ===================== TECH STACK ===================== -->
-## Technology Stack
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,jenkins,linux,ubuntu,apache,nginx,py,git,github&theme=dark" alt="Skill icons" />
+<img src="https://raw.githubusercontent.com/sahil-bhomle-cloud/sahil-bhomle-cloud/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 </div>
 
-<br/>
+## 🎓 Education & Certifications
 
-<details>
-<summary><b>AWS</b></summary>
-<br/>
+- 🎓 **B.E. Computer Science & Engineering** — Shri Shankarprasad Agnihotri College of Engineering, Wardha
+- 🎓 **PG-DITISS** — C-DAC, Pune
+- 🏅 **Python Essentials 1** — Cisco / OpenEDG
+- 🏅 **Introduction to Cybersecurity** — Cisco Networking Academy
 
-EC2 · VPC · IAM · S3 (Basic) · Lambda · CloudWatch · GuardDuty · SNS
-
-</details>
-
-<details>
-<summary><b>DevOps</b></summary>
-<br/>
-
-Docker · Jenkins · Terraform · CI/CD Fundamentals
-
-</details>
-
-<details>
-<summary><b>Operating Systems and Web Servers</b></summary>
-<br/>
-
-Linux · Ubuntu · Apache · Nginx
-
-</details>
-
-<details>
-<summary><b>Programming and Version Control</b></summary>
-<br/>
-
-Python (Fundamentals) · Git · GitHub
-
-</details>
-
-<br/>
-
-<!-- ===================== PROJECTS ===================== -->
-## Featured Projects
-
-Hands-on labs and projects built on AWS. Click a project to expand it.
-
-<details>
-<summary><b>1. AWS Threat Detection and Remediation</b></summary>
-<br/>
-
-Threat detection and remediation workflow built with **Amazon GuardDuty**, **AWS Lambda** and **Amazon SNS**.
-
-<img src="https://img.shields.io/badge/GuardDuty-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="GuardDuty" />
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda" />
-<img src="https://img.shields.io/badge/SNS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="SNS" />
-
-</details>
-
-<details>
-<summary><b>2. AWS Infrastructure with Terraform</b></summary>
-<br/>
-
-Infrastructure provisioning as code with **Terraform**: **VPC**, **Subnet**, **Security Group** and **EC2**.
-
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="VPC" />
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="EC2" />
-
-</details>
-
-<details>
-<summary><b>3. CI/CD Deployment Workflow</b></summary>
-<br/>
-
-Deployment pipeline: **GitHub → Jenkins → Docker → AWS EC2**.
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="EC2" />
-
-</details>
-
-<details>
-<summary><b>4. Static E-commerce Website on EC2</b></summary>
-<br/>
-
-Static e-commerce website hosted on **AWS EC2** using **Linux** and **Apache**.
-
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="EC2" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
-
-</details>
-
-<details>
-<summary><b>5. Dockerized Static Website</b></summary>
-<br/>
-
-Static website containerized with **Docker** and served by **Nginx** on **AWS EC2**.
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="EC2" />
-
-</details>
-
-<details>
-<summary><b>6. AWS Blue/Green Deployment Lab</b></summary>
-<br/>
-
-Blue/Green deployment lab using **EC2** and an **Application Load Balancer**.
-
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="EC2" />
-<img src="https://img.shields.io/badge/Application%20Load%20Balancer-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white" alt="ALB" />
-
-</details>
-
-<br/>
-
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-## GitHub Analytics
+## 🚀 Currently Learning
 
 <div align="center">
 
-<!-- Generated by the Profile Summary Cards workflow (no external service needed) -->
-<img src="https://raw.githubusercontent.com/sahil-bhomle-cloud/sahil-bhomle-cloud/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="49%" />
-<img src="https://raw.githubusercontent.com/sahil-bhomle-cloud/sahil-bhomle-cloud/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="65" alt="Kubernetes"/>
 
-<img src="https://raw.githubusercontent.com/sahil-bhomle-cloud/sahil-bhomle-cloud/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="32%" />
-<img src="https://raw.githubusercontent.com/sahil-bhomle-cloud/sahil-bhomle-cloud/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" width="32%" />
-<img src="https://raw.githubusercontent.com/sahil-bhomle-cloud/sahil-bhomle-cloud/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="32%" />
+### Kubernetes Fundamentals
 
-<br/>
+Learning container orchestration and Kubernetes fundamentals.
 
-<img src="https://streak-stats.demolab.com?user=sahil-bhomle-cloud&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" alt="GitHub streak" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+**Open to entry-level opportunities in AWS Cloud, Junior DevOps, Cloud Support and Cloud Operations.**
+
+<a href="mailto:sahilbhomle03@gmail.com">
+<img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/sahil-bhomle">
+<img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<!-- Animated contribution snake (needs the Snake workflow) -->
-<img src="https://raw.githubusercontent.com/sahil-bhomle-cloud/sahil-bhomle-cloud/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+*Thanks for visiting my Cloud Universe! ☁️*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:090d1b&height=120&section=footer" width="100%" alt="Animated footer"/>
 
 </div>
-
-<details>
-<summary><b>Contribution activity graph (click to expand)</b></summary>
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil-bhomle-cloud&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ffffff" alt="Contribution activity graph" width="100%" />
-</div>
-
-</details>
-
-<br/>
-
-<!-- ===================== TROPHIES ===================== -->
-## GitHub Trophies
-
-<details>
-<summary><b>Show trophies (click to expand)</b></summary>
-<br/>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahil-bhomle-cloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub trophies" />
-</div>
-
-</details>
-
-<br/>
-
-<!-- ===================== EDUCATION & CERTIFICATIONS ===================== -->
-## Education and Certifications
-
-- **B.E. in Computer Science Engineering**
-- **PG-DITISS (Post Graduate Diploma in IT Infrastructure, Systems and Security)**, C-DAC, Pune
-
-**Certifications:** No professional certifications listed yet. This section will be updated as I earn them.
-
-<br/>
-
-<!-- ===================== LEARNING ===================== -->
-## Currently Learning
-
-<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" align="left" />
-
-&nbsp;**Kubernetes**: learning the fundamentals. Not yet part of my project experience.
-
-<br clear="left"/>
-<br/>
-
-<!-- ===================== CONTACT ===================== -->
-## Contact
-
-<div align="center">
-
-<a href="mailto:sahilbhomle03@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/sahil-bhomle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/sahil-bhomle-cloud"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br/><br/>
-
-*Open to entry-level AWS Cloud, DevOps, Cloud Support and Cloud Operations roles.*
-
-</div>
-
-<!-- ===================== FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:0ea5e9,100:0f172a&height=120&section=footer&text=Cloud%20%C2%B7%20Automate%20%C2%B7%20Deploy&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="Footer" width="100%" />
 
