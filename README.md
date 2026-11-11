@@ -227,10 +227,8 @@ Blue/Green deployment lab using **EC2** and an **Application Load Balancer**.
 <!-- ===================== EDUCATION & CERTIFICATIONS ===================== -->
 ## Education and Certifications
 
-| Qualification | Institution |
-|:--|:--|
-| B.E. Computer Science Engineering | — |
-| PG-DITISS (Post Graduate Diploma) | C-DAC, Pune |
+- **B.E. in Computer Science Engineering**
+- **PG-DITISS (Post Graduate Diploma in IT Infrastructure, Systems and Security)**, C-DAC, Pune
 
 **Certifications:** No professional certifications listed yet. This section will be updated as I earn them.
 
@@ -263,8 +261,4 @@ Blue/Green deployment lab using **EC2** and an **Application Load Balancer**.
 
 <!-- ===================== FOOTER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:0ea5e9,100:0f172a&height=120&section=footer&text=Cloud%20%C2%B7%20Automate%20%C2%B7%20Deploy&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="Footer" width="100%" />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahil-bhomle-cloud/sahil-bhomle-cloud/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
 
