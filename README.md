@@ -185,3 +185,7 @@ Hands-on labs and projects built on AWS.
 <!-- ===================== FOOTER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:0ea5e9,100:0f172a&height=120&section=footer&text=Cloud%20%C2%B7%20Automate%20%C2%B7%20Deploy&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="Footer" width="100%" />
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahil-bhomle-cloud/sahil-bhomle-cloud/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
