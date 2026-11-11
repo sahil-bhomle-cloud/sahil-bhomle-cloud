@@ -55,21 +55,22 @@ I'm an aspiring **AWS Cloud and DevOps Engineer** from **Pune, India**. I hold a
 
 I enjoy building AWS infrastructure, practicing automation, containerization and cloud deployment.
 
-```bash
-$ whoami
-sahil-bhomle-cloud
+<div align="center">
 
-$ cat profile.txt
-name       : Sahil V. Bhomle
-location   : Pune, Maharashtra, India
-education  : B.E. Computer Science Engineering | PG-DITISS, C-DAC Pune
-looking_for: AWS Cloud | Junior DevOps | Cloud Support | Cloud Operations
-focus      : AWS infrastructure, automation, containerization, deployment
-learning   : Kubernetes (fundamentals)
+<img src="https://raw.githubusercontent.com/sahil-bhomle-cloud/sahil-bhomle-cloud/main/assets/about-terminal.svg" alt="Animated terminal showing Sahil V. Bhomle's profile: AWS Cloud and DevOps, Pune India, B.E. Computer Science Engineering, PG-DITISS C-DAC Pune, learning Kubernetes" width="100%" />
 
-$ echo "Cloud • Automate • Deploy • Repeat"
-Cloud • Automate • Deploy • Repeat
-```
+</div>
+
+<details>
+<summary><b>Click to see what I'm looking for</b></summary>
+<br/>
+
+- **AWS Cloud Engineering**
+- **Junior DevOps Engineering**
+- **Cloud Support**
+- **Cloud Operations**
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=2" width="100%" alt="" />
 
